@@ -1,1 +1,1 @@
-print("gitlab ci/cd")
+print("gitlab c nni/cd")
